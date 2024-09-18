@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,youzan.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -20,6 +21,7 @@ DOMAIN-KEYWORD,yihongyan
 DOMAIN-KEYWORD,dzhaole
 DOMAIN-KEYWORD,weixin
 DOMAIN-KEYWORD,qq
+DOMAIN-KEYWORD,youzan
 
 
 # IP段匹配
