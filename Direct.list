@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,youzan.com
+DOMAIN-SUFFIX,deepseek.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
