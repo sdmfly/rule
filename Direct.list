@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,youzan.com
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,dzhaole.cn
+DOMAIN-SUFFIX,sdmfly.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
