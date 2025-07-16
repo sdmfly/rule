@@ -12,8 +12,8 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-ruleset=🎯 全球直连,https://gh-proxy.com/https://raw.githubusercontent.com/sdmfly/rule/main/Direct.list
-ruleset=🎯 全球直连,https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/sdmfly/rule/main/Direct.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://gh-proxy.com/https://raw.githubusercontent.com/YuanMoo/ClashCustomRule/master/speedtest.list
 ruleset=🎯 全球直连,https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
