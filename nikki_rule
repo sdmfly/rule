@@ -47,8 +47,8 @@ ruleset=🚀 节点选择,DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 ruleset=🚀 节点选择,DOMAIN-SUFFIX,services.googleapis.cn
 ruleset=🚀 节点选择,https://gh.tianyad.top/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
 ruleset=🎯 全球直连,https://gh.tianyad.top/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
-ruleset=🎯 全球直连,GEOIP,CN,no-resolve
-ruleset=🐟 漏网之鱼,FINAL,🐟 漏网之鱼
+ruleset=🎯 全球直连,[]GEOIP,CN,no-resolve
+ruleset=🐟 漏网之鱼,[]FINAL
 
 
 ;设置规则标志位
