@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,donet5.com
 DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,ip138.com
+
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
